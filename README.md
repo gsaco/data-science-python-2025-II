@@ -2,4 +2,4 @@
 Siempre poner descripción. 
 
 ## List of students
-1. Gabriel Saco
+1. Gabriel Saco / Jurassic
